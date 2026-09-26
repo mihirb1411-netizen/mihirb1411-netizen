@@ -2,7 +2,7 @@
   <img src="./art/banner.png" alt="Mihir Bhavigadda — AI, FinTech & Data Analytics" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Mihir Bhavigadda 👋</h1>
+<h1 align="center">Hi, I'm Mihir Bhavigadda </h1>
 
 <p align="center">
   <strong>AI • FinTech • Data Analytics • Product</strong>
